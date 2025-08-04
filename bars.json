@@ -1,1 +1,1 @@
-{"type":"Feature","geometry":{"type":"Point","coordinates":[null,null]},"properties":{"id":34,"name":"Le Couscous Club","ville":"Tizi Ouzou","adresse":"Rue du Tajine, Tizi Ouzou","description":"Ici, tu bois un verre... et tu repars avec un tupperware.","qr_code":null}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[2.999983,28.000027]},"properties":{"id":35,"name":"100% Olive","ville":"Béjaïa","adresse":"Rue des Champs, Béjaïa","description":"Le seul bar où l’olive est servie avant le pastis.","qr_code":null}}
