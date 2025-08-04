@@ -1,1 +1,1 @@
-{"type":"Feature","geometry":{"type":"Point","coordinates":[null,null]},"properties":{"id":34,"name":"Le Couscous Club","ville":"Tizi Ouzou","adresse":"Rue du Tajine, Tizi Ouzou","qr_code":null,"description":"Ici, tu bois un verre... et tu repars avec un tupperware."}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[null,null]},"properties":{"id":34,"name":"Le Couscous Club","ville":"Tizi Ouzou","adresse":"Rue du Tajine, Tizi Ouzou","description":"Ici, tu bois un verre... et tu repars avec un tupperware.","qr_code":null}}
