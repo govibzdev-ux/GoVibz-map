@@ -1,1 +1,13 @@
-[{"id":34,"Nom":"Le Couscous Club","photo":"{\"url\":\"https://adalo-uploads.imgix.net/8d7557bbf40ff9184beeadff7e6c423bb98b7c925de22c9149f323b3f93b7c67.png\",\"size\":531905,\"width\":574,\"height\":388,\"filename\":\"Screenshot 2025-07-26 at 01.39.10.png\",\"metadata\":{\"width\":574,\"height\":388,\"blurHash\":\"eCL-Ut-T{h,HOX#Unko{xYNb59n+O;bYsA--odM#NI$hRkaybaoLoJ\",\"blurHashWidth\":32}}","ville":"Tizi Ouzou","adresse":"Rue du Tajine, Tizi Ouzou","qr-code":null,"latitude":null,"longitude":null,"Description":"Ici, tu bois un verre... et tu repars avec un tupperware."}]
+[
+	{
+		"id": 34,
+		"Nom": "Le Couscous Club",
+		"photo": "{\"url\":\"https://adalo-uploads.imgix.net/8d7557bbf40ff9184beeadff7e6c423bb98b7c925de22c9149f323b3f93b7c67.png\",\"size\":531905,\"width\":574,\"height\":388,\"filename\":\"Screenshot 2025-07-26 at 01.39.10.png\",\"metadata\":{\"width\":574,\"height\":388,\"blurHash\":\"eCL-Ut-T{h,HOX#Unko{xYNb59n+O;bYsA--odM#NI$hRkaybaoLoJ\",\"blurHashWidth\":32}}",
+		"ville": "Tizi Ouzou",
+		"adresse": "Rue du Tajine, Tizi Ouzou",
+		"qr-code": null,
+		"latitude": null,
+		"longitude": null,
+		"Description": "Ici, tu bois un verre... et tu repars avec un tupperware."
+	}
+]
