@@ -1,1 +1,1 @@
-{"type":"Feature","geometry":{"type":"Point","coordinates":[7.268391,43.700936]},"properties":{"id":37,"name":"Chez L'Oncle Rif","ville":"Oran","adresse":"Impasse du Couscoussier, Oran","description":"Ici, c’est Ricard ou rien... sauf si t’amènes le pain maison.","qr_code":"test.com"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[null,null]},"properties":{"id":34,"name":"Le Couscous Club","ville":"Tizi Ouzou","adresse":"Rue du Tajine, Tizi Ouzou","description":"Ici, tu bois un verre... et tu repars avec un tupperware.","qr_code":null}}
