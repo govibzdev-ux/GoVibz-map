@@ -1,1 +1,36 @@
-{"type":"Feature","features":["{\n  \"type\": \"FeatureCollection\",\n  \"features\": [{\n  \"type\": \"Feature\",\n  \"geometry\": {\n    \"type\": \"Point\",\n    \"coordinates\": [28, 8]\n  },\n  \"properties\": {\n    \"id\": 34,\n    \"name\": \"Le Couscous Club\",\n    \"ville\": \"Tizi Ouzou\",\n    \"adresse\": \"Rue du Tajine, Tizi Ouzou\",\n    \"description\": \"Ici, tu bois un verre... et tu repars avec un tupperware.\",\n    \"qr_code\": \"VF\"\n  }\n}\n\n{\n  \"type\": \"Feature\",\n  \"geometry\": {\n    \"type\": \"Point\",\n    \"coordinates\": [2.999983, 28.000027]\n  },\n  \"properties\": {\n    \"id\": 35,\n    \"name\": \"100% Olive\",\n    \"ville\": \"Béjaïa\",\n    \"adresse\": \"Rue des Champs, Béjaïa\",\n    \"description\": \"Le seul bar où l’olive est servie avant le pastis.\",\n    \"qr_code\": \"FV\"\n  }\n}\n\n{\n  \"type\": \"Feature\",\n  \"geometry\": {\n    \"type\": \"Point\",\n    \"coordinates\": [43.55152, 7.013442]\n  },\n  \"properties\": {\n    \"id\": 36,\n    \"name\": \"Kabylifornia\",\n    \"ville\": \"Alger\",\n    \"adresse\": \"Boulevard du Zgougou, Alger\",\n    \"description\": \"Ambiance USA, mentalité kabyle : l’entrée est libre, pas la sortie.\",\n    \"qr_code\": \"ER\"\n  }\n}\n\n{\n  \"type\": \"Feature\",\n  \"geometry\": {\n    \"type\": \"Point\",\n    \"coordinates\": [7.268391, 43.700936]\n  },\n  \"properties\": {\n    \"id\": 37,\n    \"name\": \"Chez L'Oncle Rif\",\n    \"ville\": \"Oran\",\n    \"adresse\": \"Impasse du Couscoussier, Oran\",\n    \"description\": \"Ici, c’est Ricard ou rien... sauf si t’amènes le pain maison.\",\n    \"qr_code\": \"test.com\"\n  }\n}\n\n  ]\n}"]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2619, 43.7102]  // longitude, latitude
+      },
+      "properties": {
+        "id": 1,
+        "name": "Le Bar du Port",
+        "ville": "Nice",
+        "adresse": "1 Rue de la Digue, Nice",
+        "description": "Un spot chill avec vue sur mer.",
+        "qr_code": "https://govibz.com/bar/1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2684, 43.7009]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Chez L'Oncle Rif",
+        "ville": "Oran",
+        "adresse": "Impasse du Couscoussier, Oran",
+        "description": "Ici, c’est Ricard ou rien... sauf si t’amènes le pain maison.",
+        "qr_code": "https://govibz.com/bar/2"
+      }
+    }
+    // Tu ajoutes autant d’objets Feature que nécessaire ici.
+  ]
+}
